@@ -85,7 +85,7 @@ work:
       - Improved forecast accuracy to 82% by integrating external data
       - Created an index report with 20+ visualizations for data insights
 
-  position: Quantitative Analyst Intern
+  - position: Quantitative Analyst Intern
     company_name: QuantBridge Finance Co., Ltd.
     company_url: http://www.quantbridge.com.cn/stationWebsite/w/h
     company_logo: ''
