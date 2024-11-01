@@ -135,7 +135,7 @@ skills:
       - name: Soccer (Chelsea)
         description: ''
         percent: 100
-        icon: assets/media/icons/custom/Chelsea.png
+        icon: custom/Chelsea.png
       - name: Photography
         description: ''
         percent: 80
