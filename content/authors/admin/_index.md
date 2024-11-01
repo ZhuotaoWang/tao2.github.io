@@ -116,7 +116,7 @@ skills:
         icon: devicon/azuresqldatabase
       - name: Tableau
         description: ''
-        icon: tableau-icon-svgrepo-com.svg
+        icon: tableau-icon-svgrepo-com
         percent: 85
 
 
@@ -131,11 +131,11 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        icon: tennis-6-svgrepo-com.svg
+        icon: tennis-6-svgrepo-com
       - name: Soccer (Chelsea)
         description: ''
         percent: 100
-        icon: chelsea-fc-2.svg
+        icon: chelsea-fc-2
       - name: Photography
         description: ''
         percent: 80
