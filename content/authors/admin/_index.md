@@ -147,5 +147,5 @@ languages:
   - name: Chinese
     percent: 100
 
-
+---
 I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
