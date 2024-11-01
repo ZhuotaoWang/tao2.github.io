@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Felix
+title: Felix (Zhuotao)
 
 # Full name (for SEO)
 first_name: Zhuotao
@@ -143,7 +143,7 @@ skills:
 
 languages:
   - name: English
-    percent: 90
+    percent: 100
   - name: Chinese
     percent: 100
 
