@@ -113,10 +113,10 @@ skills:
       - name: SQL
         description: ''
         percent: 80
-        icon: devicon/sql
+        icon: devicon/azuresqldatabase
       - name: Tableau
         description: ''
-        icon: devicon/tableau
+        icon: tableau-icon-svgrepo-com.svg
         percent: 85
 
 
@@ -131,11 +131,11 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        icon: cat
+        icon: tennis-6-svgrepo-com.svg
       - name: Soccer (Chelsea)
         description: ''
         percent: 100
-        icon: custom/Chelsea.png
+        icon: chelsea-fc-2.svg
       - name: Photography
         description: ''
         percent: 80
@@ -147,10 +147,8 @@ languages:
   - name: Chinese
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
----
-I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
+Awards:
+- title: Title
+    date: '2023-11-25'
+    summary: |
+      I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
