@@ -113,10 +113,10 @@ skills:
       - name: SQL
         description: ''
         percent: 80
-        icon: devicon/pytorch
+        icon: devicon/sql
       - name: Tableau
         description: ''
-        icon: devicon/pytorch
+        icon: devicon/tableau
         percent: 85
 
 
@@ -135,7 +135,7 @@ skills:
       - name: Soccer (Chelsea)
         description: ''
         percent: 100
-        icon: cat
+        icon: soccer
       - name: Photography
         description: ''
         percent: 80
