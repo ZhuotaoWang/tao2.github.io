@@ -139,7 +139,7 @@ skills:
       - name: Fitness
         description: ''
         percent: 90
-        icon: "custom/gym.svg"
+        icon: "custom/gym"
 
 languages:
   - name: English
@@ -157,19 +157,17 @@ Awards:
     url: hhttps://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
     date: '2024-10-20'
     awarder: JHU
-    icon: "custom/jhu.svg"
+    icon: "custom/jhu"
     summary: |
-      This is the project that I done using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      This is the project that I did using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
+  - title: Primary Blast Lung Injury Simulator
+    date: '2024-05-15'
+    awarder: University of Nottingham
+    icon: “custom/uon"
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - Reviewed 20+ research papers on cardiovascular ODE and PDE models to deepen understanding of heart-lung interactions.
+      - Developed Python simulations achieving 95% accuracy, optimized with real-world data.
+      - Built predictive models in Python, improving accuracy by 15% and guiding research on cardiovascular injuries.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
