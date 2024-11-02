@@ -52,7 +52,7 @@ work:
   - position: Business Analyst Intern
     company_name: Alpha Bravo Development
     company_url: https://www.alphabravodevelopment.com/
-    company_logo: 'custom/tennis-6-svgrepo-com'
+    company_logo: ''
     date_start: 2024-10-24
     date_end: ''
     summary: |2-
@@ -63,7 +63,7 @@ work:
   - position: Business Analyst Intern
     company_name: Microsoft
     company_url: https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_CjwKCAjw-JG5BhBZEiwAt7JR69aCsBHmnZVJzuk4_ldlrQnyR7hInM_Fh_UIQGTi0xUhDMfBw4oixhoCdW4QAvD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_CjwKCAjw-JG5BhBZEiwAt7JR69aCsBHmnZVJzuk4_ldlrQnyR7hInM_Fh_UIQGTi0xUhDMfBw4oixhoCdW4QAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw-JG5BhBZEiwAt7JR69aCsBHmnZVJzuk4_ldlrQnyR7hInM_Fh_UIQGTi0xUhDMfBw4oixhoCdW4QAvD_BwE
-    company_logo: 'microsoft-svgrepo-com'
+    company_logo: microsoft-svgrepo-com
     date_start: 2024-05-26
     date_end: 2020-08-07
     summary: |
