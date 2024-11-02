@@ -16,6 +16,7 @@ role: Graduate student studying Business analysis
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Johns Hopkins University
+    icon: "custom/jhu"
     url: https://carey.jhu.edu/
 
 # Social network links
@@ -169,7 +170,7 @@ Awards:
       - Developed Python simulations achieving 95% accuracy, optimized with real-world data.
       - Built predictive models in Python, improving accuracy by 15% and guiding research on cardiovascular injuries.
   - title: Statistical Analysis of Colon Cancer Survival Factors
-    date: '2023-01-21'
+    date: '2024-01-15'
     awarder: University of Nottingham
     icon: "custom/uon"
     summary: |
