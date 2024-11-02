@@ -52,7 +52,7 @@ work:
   - position: Business Analyst Intern
     company_name: Alpha Bravo Development
     company_url: https://www.alphabravodevelopment.com/
-    company_logo: ''
+    company_logo: 'custom/tennis-6-svgrepo-com'
     date_start: 2024-10-24
     date_end: ''
     summary: |2-
