@@ -159,7 +159,7 @@ Awards:
     date: '2024-10-20'
     awarder: JHU
     icon: ""
-    url: https://public.tableau.com/app/profile/zhouhang.bao/viz/Team151CrashanalysisinMaryland_17292085871930/CoverPage
+    certificate_url: https://public.tableau.com/app/profile/zhouhang.bao/viz/Team151CrashanalysisinMaryland_17292085871930/CoverPage
     summary: |
       This is the project that I did using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
   - title: Primary Blast Lung Injury Simulator
@@ -178,5 +178,6 @@ Awards:
       - Processed and refined 15,000+ data entries in Excel and R, enhancing analysis efficiency by 30%.
       - Applied survival analysis models to predict colorectal cancer outcomes with 85% accuracy.
       - Created a 25-page statistical report and presented findings, receiving top feedback for clarity and thoroughness (1st out of 24).
+     url: uploads/statistical analysis of factors affecting the survival of patients with colon cancer.pdf
 ---
 I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
