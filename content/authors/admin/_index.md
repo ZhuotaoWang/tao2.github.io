@@ -153,13 +153,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Data Visualization of Crash Cases in Maryland
+    url: hhttps://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+    date: '2024-10-20'
+    awarder: JHU
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      This is the project that I done using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
