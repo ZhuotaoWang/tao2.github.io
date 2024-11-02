@@ -163,18 +163,18 @@ Awards:
   - title: Primary Blast Lung Injury Simulator
     date: '2024-05-15'
     awarder: University of Nottingham
-    icon: “custom/uon"
+    icon:  "custom/uon"
     summary: |
       - Reviewed 20+ research papers on cardiovascular ODE and PDE models to deepen understanding of heart-lung interactions.
       - Developed Python simulations achieving 95% accuracy, optimized with real-world data.
       - Built predictive models in Python, improving accuracy by 15% and guiding research on cardiovascular injuries.
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+  - title: Statistical Analysis of Colon Cancer Survival Factors
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: University of Nottingham
+    icon: "custom/uon"
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Processed and refined 15,000+ data entries in Excel and R, enhancing analysis efficiency by 30%.
+      - Applied survival analysis models to predict colorectal cancer outcomes with 85% accuracy.
+      - Created a 25-page statistical report and presented findings, receiving top feedback for clarity and thoroughness (1st out of 24).
 ---
 I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
