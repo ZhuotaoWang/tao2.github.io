@@ -152,7 +152,7 @@ Awards:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
   - title: Proj1
-    date: '2023 - 2024'
+    date: '2023-11-25'
     awarder: University
     summary: |
       Proj1 summary.
