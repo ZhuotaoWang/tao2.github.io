@@ -178,6 +178,6 @@ Awards:
       - Processed and refined 15,000+ data entries in Excel and R, enhancing analysis efficiency by 30%.
       - Applied survival analysis models to predict colorectal cancer outcomes with 85% accuracy.
       - Created a 25-page statistical report and presented findings, receiving top feedback for clarity and thoroughness (1st out of 24).
-    url: uploads/statistical analysis of factors affecting the survival of patients with colon cancer.pdf
+    certificate_url: uploads/statistical analysis of factors affecting the survival of patients with colon cancer.pdf
 ---
 I am a graduate student in Business Analytics at Johns Hopkins University Carey Business School, actively seeking opportunities in Data Analysis, Business Analysis, and Quantitative Analysis.
