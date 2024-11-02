@@ -126,7 +126,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Tennis
         description: ''
@@ -136,10 +136,10 @@ skills:
         description: ''
         percent: 100
         icon: "custom/chelsea-fc-2"
-      - name: Photography
+      - name: Fitness
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: "custom/gym.svg"
 
 languages:
   - name: English
