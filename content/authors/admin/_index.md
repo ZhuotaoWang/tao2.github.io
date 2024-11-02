@@ -158,13 +158,13 @@ Awards:
     url: hhttps://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
     date: '2024-10-20'
     awarder: JHU
-    icon: "custom/jhu"
+    icon: ""
     summary: |
       This is the project that I did using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
   - title: Primary Blast Lung Injury Simulator
     date: '2024-05-15'
     awarder: University of Nottingham
-    icon:  "custom/uon"
+    icon:  ""
     summary: |
       - Reviewed 20+ research papers on cardiovascular ODE and PDE models to deepen understanding of heart-lung interactions.
       - Developed Python simulations achieving 95% accuracy, optimized with real-world data.
@@ -172,7 +172,7 @@ Awards:
   - title: Statistical Analysis of Colon Cancer Survival Factors
     date: '2024-01-15'
     awarder: University of Nottingham
-    icon: "custom/uon"
+    icon: ""
     summary: |
       - Processed and refined 15,000+ data entries in Excel and R, enhancing analysis efficiency by 30%.
       - Applied survival analysis models to predict colorectal cancer outcomes with 85% accuracy.
