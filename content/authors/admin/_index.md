@@ -159,6 +159,7 @@ Awards:
     date: '2024-10-20'
     awarder: JHU
     icon: ""
+    certificate_url: https://public.tableau.com/app/profile/zhouhang.bao/viz/Team151CrashanalysisinMaryland_17292085871930/CoverPage
     summary: |
       This is the project that I did using Tableau. I Processed and cleaned over 180,000 data entries in Tableau, eliminating 20% of irrelevant data to optimize reporting, and created 10+ interactive visualizations in Tableau to analyze crash factors, enhancing data-driven decision-making by 30%. Additionally, delivered a YouTube presentation on visualization techniques and predictive models, garnering 2,000+ views and 50+ likes.
   - title: Primary Blast Lung Injury Simulator
